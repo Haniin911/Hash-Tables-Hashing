@@ -30,6 +30,7 @@ But I realized I still needed a way to find each food item more efficiently — 
 So I started looking for a better method.
 
 🧠 The Hashing Method
+
 Let’s say I came up with a method that converts each food name into a specific number.
 
 Then, I divided the booklet into a number of pages, each with a unique number.
