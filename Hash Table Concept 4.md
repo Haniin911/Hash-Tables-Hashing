@@ -36,8 +36,13 @@ This process is called linear probing.
 There are other variations too, like quadratic probing or double hashing, where you jump in different ways.
 
 ✅ Pros:
+
 No need for extra memory for lists.
+
 Can be memory-efficient for small datasets.
+
 ❌ Cons:
+
 More sensitive to load factor — when the table gets full, it becomes much slower.
+
 Needs careful handling to avoid infinite loops or clustering.
