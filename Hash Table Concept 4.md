@@ -6,6 +6,7 @@ How do we handle it?
 There are two popular ways: Chaining and Probing.
 
 🧶 1. Chaining (Separate Chaining)
+
 Think of it like this:
 
 📖 Page 3 becomes a list of items, not just a single price.
@@ -25,6 +26,7 @@ The table can still store more than one item per slot.
 If too many items land on the same page, the list gets long → slower.
 
 🔁 2. Probing (Open Addressing)
+
 In probing, each page can hold only one item. So if page 3 is already full, you try to find the next empty page using a pattern.
 For example:
 Fish → goes to page 3.
