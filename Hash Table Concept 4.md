@@ -20,9 +20,13 @@ Page 3:
 - Fries → $15
 💡 When you search for the price of Rice, you just scan this small list on the page.
 ✅ Pros:
+
 Easy to implement.
+
 The table can still store more than one item per slot.
+
 ❌ Cons:
+
 If too many items land on the same page, the list gets long → slower.
 
 🔁 2. Probing (Open Addressing)
