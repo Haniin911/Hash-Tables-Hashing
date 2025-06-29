@@ -16,15 +16,10 @@ The load factor tells you how full your table (booklet) is.
 
 It’s calculated as:
 
-mathematica
-Copy
-Edit
 Load Factor = Number of Stored Items / Total Number of Pages
 In your case:
 
-java
-Copy
-Edit
+
 Load Factor = 7 / 10 = 0.7
 📉 Why Does Load Factor Matter?
 A low load factor (like 0.3 or 0.4) means the booklet has plenty of empty pages, so it's less likely two food items end up on the same page (fewer collisions).
